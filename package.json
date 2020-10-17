@@ -1,0 +1,23 @@
+{
+  "name": "vue-task4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vue": "vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teppei-gym/vue-task4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teppei-gym/vue-task4/issues"
+  },
+  "homepage": "https://github.com/teppei-gym/vue-task4#readme",
+  "dependencies": {
+    "vue-router": "^3.4.7"
+  }
+}
